@@ -16,7 +16,7 @@ jobs:
 
     - name: Build HTML
       uses: ammaraskar/sphinx-action@master
-      with: 
+      with:
         docs-folder: .
         build-command: make html
 
