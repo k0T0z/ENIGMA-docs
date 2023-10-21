@@ -1,0 +1,20 @@
+/*.csv
+!/redirects.csv
+/.env
+
+/_build/
+/env/
+/__pycache__
+/*.pyc
+/*~
+/.directory
+/.vs/
+!/.vscode/
+/*.mo
+
+# Vim temp files
+/*.swo
+/*.swp
+
+# Jetbrains IDE files
+/.idea/
